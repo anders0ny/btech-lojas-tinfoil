@@ -1,0 +1,12 @@
+{
+  "shops": [
+    {
+      "name": "Loja 1 - Btech",
+      "url": "https://lojabtech1.com/"
+    },
+    {
+      "name": "Loja 2 - Switch Retro",
+      "url": "https://outraloja.com/"
+    }
+  ]
+}
