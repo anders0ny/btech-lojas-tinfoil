@@ -1,12 +1,15 @@
 {
-  "shops": [
+  "locations": [
     {
-      "name": "Loja 1 - Btech",
-      "url": "https://lojabtech1.com/"
+      "url": "https://sualoja1.com",
+      "title": "Btech Loja 1",
+      "action": "add"
     },
     {
-      "name": "Loja 2 - Switch Retro",
-      "url": "https://outraloja.com/"
+      "url": "https://sualoja2.com",
+      "title": "Btech Loja moderfocer",
+      "action": "add"
     }
-  ]
+  ],
+  "success": "✅ As lojas foram atualizadas com sucesso. Loja 2 removida por estar fora do ar."
 }
