@@ -1,0 +1,12 @@
+{
+  "shops": [
+    {
+      "name": "BTECH GAMES",
+      "url": "https://loja1.btechgames.com/"
+    },
+    {
+      "name": "Switch Retro 2",
+      "url": "https://servidor2.com/loja/"
+    }
+  ]
+}
